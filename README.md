@@ -9,15 +9,13 @@ Parallel Problem Solving from Nature, Springer, Dortmund 2022, to appear  **[[li
 Please cite our paper if you use our codes!!
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2204.06250,
-  doi = {10.48550/ARXIV.2204.06250},
-  url = {https://arxiv.org/abs/2204.06250},
-  author = {Cunegatti, Elia and Iacca, Giovanni and Bucur, Doina},
-  keywords = {Social and Information Networks (cs.SI), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), Neural and Evolutionary Computing (cs.NE), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Large-scale multi-objective influence maximisation with network downscaling},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{cunegatti2022large,
+  title={Large-scale multi-objective influence maximisation with network downscaling},
+  author={Cunegatti, Elia and Iacca, Giovanni and Bucur, Doina},
+  booktitle={Parallel Problem Solving from Nature--PPSN XVII: 17th International Conference, PPSN 2022, Dortmund, Germany, September 10--14, 2022, Proceedings, Part II},
+  pages={207--220},
+  year={2022},
+  organization={Springer}
 }
 ```
 
